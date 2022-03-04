@@ -11,8 +11,8 @@ ZIP файл сервера: https://github.com/CrazorTheCat/BSDS-V42/archive/re
 1. скачать сервер и apk
 2. установить апк
 3. скачать pydroid (если хотите запустить с телефона)
-4. открыть в p ydroid Core.py, расположенный в папке сервера
-5. click on the run button
+4. открыть в pydroid Core.py, расположенный в папке сервера
+5. нажмите на кнопку запуска
 6. now open the game and play
 
 ## Change the ip address and port (if needed) in libprojectbsds.config.so located in the lib folder ##
