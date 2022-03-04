@@ -1,17 +1,17 @@
-Discord link : https://discord.gg/mt4dUxXryh
+Дискорд ссылка : https://discord.gg/mt4dUxXryh
 
-ANDROID : https://www.mediafire.com/file/2va7flx8c9n9jo5/com.projectbsds.v42333.apk/file
+АНДРОИД : https://www.mediafire.com/file/2va7flx8c9n9jo5/com.projectbsds.v42333.apk/file
 
-Server ZIP: https://github.com/CrazorTheCat/BSDS-V42/archive/refs/heads/master.zip
+ZIP файл сервера: https://github.com/CrazorTheCat/BSDS-V42/archive/refs/heads/master.zip
 
 ## Requirements: ##
-1. a brain...
+1. мозг...
 
 ## How to play BSDS: ##
-1. download server and apk
-2. install the apk
+1. скачать сервер и apk
+2. установить апк
 3. download pydroid (if you want to run from the phone)
-4. open in pydroid Core.py located in the server folder
+4. open in p ydroid Core.py located in the server folder
 5. click on the run button
 6. now open the game and play
 
