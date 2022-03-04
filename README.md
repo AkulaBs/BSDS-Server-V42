@@ -4,7 +4,7 @@
 
 ZIP файл сервера: https://github.com/CrazorTheCat/BSDS-V42/archive/refs/heads/master.zip
 
-## Requirements: ##
+## Требования: ##
 1. мозг...
 
 ## How to play BSDS: ##
@@ -13,8 +13,8 @@ ZIP файл сервера: https://github.com/CrazorTheCat/BSDS-V42/archive/re
 3. скачать pydroid (если хотите запустить с телефона)
 4. открыть в pydroid Core.py, расположенный в папке сервера
 5. нажмите на кнопку запуска
-6. now open the game and play
+6. теперь открывай игру и играй
 
-## Change the ip address and port (if needed) in libprojectbsds.config.so located in the lib folder ##
+## Измените IP-адрес и порт (при необходимости) в файле libprojectbsds.config.so, расположенном в папке lib. ##
 
 ![Screenshot_20220302-180739_BSDS_V42](https://user-images.githubusercontent.com/52799759/156474426-399ea814-9727-4a49-a1f8-2f95e027309c.png)
