@@ -10,8 +10,8 @@ ZIP файл сервера: https://github.com/CrazorTheCat/BSDS-V42/archive/re
 ## How to play BSDS: ##
 1. скачать сервер и apk
 2. установить апк
-3. download pydroid (if you want to run from the phone)
-4. open in p ydroid Core.py located in the server folder
+3. скачать pydroid (если хотите запустить с телефона)
+4. открыть в p ydroid Core.py, расположенный в папке сервера
 5. click on the run button
 6. now open the game and play
 
